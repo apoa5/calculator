@@ -1,1 +1,2 @@
 # calculator
+Simple calculator app
